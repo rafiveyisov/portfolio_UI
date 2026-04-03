@@ -2,7 +2,7 @@
 
 A high-performance portfolio app featuring a live **RNN vs LSTM** sentiment analysis comparison and details on my **RAG Pipeline** and **CNN** projects.
 
-## 🔗 [Live Demo Link](https://your-app-link.streamlit.app)
+## 🔗 [Live Demo Link](https://rafi-veyis-portfolio-ui.streamlit.app/)
 
 ### 🚀 Key Features
 * **Live Inference**: Compare RNN and LSTM models on custom text.
